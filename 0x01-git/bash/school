@@ -1,1 +1,4 @@
-#!/bin/bash School
+<<<<<<< HEAD
+=======
+#!/bin/bash The school is open!
+>>>>>>> update_script
